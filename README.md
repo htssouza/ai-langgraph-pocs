@@ -1,7 +1,8 @@
-## 🦜
-# __LangGraph Essentials__
+# LangGraph PoCs
 
-This course will cover an introduction to key LangGraph concepts: State, Nodes, Edges, Memory, and Interrupts. It consists of five core labs and one cumulative tutorial demonstrating how to build a production-style email support workflow.
+Personal proof-of-concept experiments with [LangGraph](https://github.com/langchain-ai/langgraph), exploring key concepts like State, Nodes, Edges, Memory, and Interrupts.
+
+Based on the [LangGraph Essentials](https://github.com/langchain-ai/lca-langgraph-essentials) course by LangChain.
 
 ## 🚀 Setup 
 
@@ -13,12 +14,11 @@ This course will cover an introduction to key LangGraph concepts: State, Nodes, 
 
 ### Installation
 
-Download the course repository
+Clone the repository
 
 ```bash
-# Clone the repo, cd to 'python' directory
-git clone https://github.com/langchain-ai/lca-langgraph-essentials.git
-cd ./lca-langgraph-essentials/python
+git clone https://github.com/htssouza/ai-langgraph-pocs.git
+cd ai-langgraph-pocs
 ```
 
 Make a copy of example.env
